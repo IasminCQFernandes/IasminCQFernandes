@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iasmin-caroline-queiroz-fernandes-206a12213/) 
+[![Portfolio](https://icons8.com/icon/48250/code)](https://iasmincqfernandes.github.io/Projeto-Portfolio/)
 [![Portfolio]](https://iasmincqfernandes.github.io/Projeto-Portfolio/) 
 
 # 💻 Tech Stack:
