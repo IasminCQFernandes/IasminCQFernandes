@@ -1,11 +1,22 @@
-# 💫 About Me:
-🔭 Sou estudante de Front-End.<br>🌱 Estou aprofundando meus estudos em JavaScript e React.<br>👯 Busco uma oportunidade de estágio para desenvolver habilidades empresariais.<br><br>
+
+# Olá, eu sou a Iasmin! 👋
+
+🔭 Tenho 21 anos, moro em Belo Horizonte - MG (Brasil), sou estudante de Analise e Desenvolvimento de Sistemas e estou aprofundando meus estudos na área de Front-End. 
+## 🚀 Objetivos
+
+💫 Busco uma oportunidade de estágio ou desenvolvedora junior para aumentar habilidades profissionais e iniciar minha carreira.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iasmin-caroline-queiroz-fernandes-206a12213/) 
-[![Portfolio](https://icons8.com/icon/48250/code)](https://iasmincqfernandes.github.io/Projeto-Portfolio/)
-[![Portfolio]](https://iasmincqfernandes.github.io/Projeto-Portfolio/) 
+
+## 🛠 Habilidades
+👩‍💻Atualmente: HTML, CSS e JavaScript.
+
+🧠 Estou aprendendo: Java e Python.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iasmincqfernandes.github.io/Projeto-Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iasmin-caroline-queiroz-fernandes-206a12213/)
+
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
