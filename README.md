@@ -1,17 +1,17 @@
 
 # Olá, eu sou a Iasmin! 👋
 
-🔭 Tenho 21 anos, moro em Belo Horizonte - MG (Brasil), sou estudante de Analise e Desenvolvimento de Sistemas e estou aprofundando meus estudos na área de Front-End. 
+🔭 Tenho 22 anos, moro em Belo Horizonte - MG (Brasil), sou estudante de Analise e Desenvolvimento de Sistemas. 
 ## 🚀 Objetivos
 
-💫 Busco uma oportunidade de estágio ou desenvolvedora junior para aumentar habilidades profissionais e iniciar minha carreira.
+💫 Estou trabalhando como desenvolvedora Full Stack na empresa LCM Construção.
 
 
 
 ## 🛠 Habilidades
-👩‍💻Atualmente: HTML, CSS e JavaScript.
+👩‍💻Atualmente: HTML, CSS e JavaScript, Node e Python.
 
-🧠 Estou aprendendo: Java e Python.
+🧠 Estou aprendendo: Python.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iasmincqfernandes.github.io/Projeto-Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iasmin-caroline-queiroz-fernandes-206a12213/)
