@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Iasmin! 👋
 
-🔭 Tenho 2 anos, moro em Belo Horizonte - MG (Brasil), sou estudante de Engenharia de Software. 
+🔭 Tenho 24 anos, moro em Belo Horizonte - MG (Brasil), sou estudante de Engenharia de Software. 
 ## 🚀 Objetivos
 
 💫 Sou fundadora e desenvolvedora Full Stack na GaloreTech, uma empresa dedicada à criação de designs inovadores, websites dinâmicos e aplicativos personalizados. 
